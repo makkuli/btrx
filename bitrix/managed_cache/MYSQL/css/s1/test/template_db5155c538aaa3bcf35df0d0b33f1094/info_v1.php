@@ -1,0 +1,1 @@
+<?php $filesInfo = ["/bitrix/wizards/bitrix/eshop/css/panel.css" => "1666879093240","/local/templates/test/css/common.css" => "1644811252404375",]; ?>
